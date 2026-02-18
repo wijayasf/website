@@ -1,0 +1,63 @@
+/* ================================
+   GLOBAL
+================================ */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ================================
+   HERO SECTION
+================================ */
+
+.hero-section {
+    background-color: #dc3545;
+    color: white;
+    padding: 100px 0;
+}
+
+/* ================================
+   IMAGE WRAPPER (PRECISION FIX)
+================================ */
+
+.img-wrapper {
+    height: 350px;              /* tinggi seragam */
+    display: flex;
+    align-items: center;        /* vertical center */
+    justify-content: center;    /* horizontal center */
+    background-color: #f8f9fa;  /* background netral */
+    overflow: hidden;
+}
+
+.img-wrapper img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/* ================================
+   ABOUT SECTION
+================================ */
+
+.about-btn {
+    font-size: 2rem;
+    padding: 15px 40px;
+}
+
+/* ================================
+   FOOTER
+================================ */
+
+footer {
+    background-color: #212529;
+    color: white;
+    padding: 20px 0;
+}
+
+/* ================================
+   ABOUT TOGGLE
+================================ */
+
+.about-hidden {
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
