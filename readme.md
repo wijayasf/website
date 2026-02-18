@@ -15,26 +15,6 @@ This project recreates the provided sample layout and includes a small interacti
 
 ---
 
-## Project Structure
-
-marvel-portfolio/
-│
-├── index.html
-├── README.md
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── assets/
-    ├── ironman.png
-    ├── spiderman.png
-    └── captain.png
-
----
-
 ## Features
 
 - Responsive layout using Bootstrap grid system
