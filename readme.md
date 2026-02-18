@@ -26,9 +26,7 @@ This project recreates the provided sample layout and includes a small interacti
 
 ## How to Run
 
-1. Download or clone the project folder.
-2. Open `index.html` in your browser.
-3. (Optional) Use Live Server in VS Code for development.
+1. Open https://wijayasf.github.io/website/ on your browser
 
 ---
 
